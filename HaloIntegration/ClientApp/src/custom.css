@@ -1,0 +1,30 @@
+/* Provide sufficient contrast against white background */
+a {
+  color: #0366d6;
+}
+
+code {
+  color: #E01A76;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+/*.backdrop {
+    width: 400px;
+    height: 200px;
+    background-color: black;
+    vertical-align: central;
+}
+
+.stack-top {
+    z-index: 9;
+    margin: 20px;
+}
+
+.emblem-image {
+    position: absolute;
+}*/
