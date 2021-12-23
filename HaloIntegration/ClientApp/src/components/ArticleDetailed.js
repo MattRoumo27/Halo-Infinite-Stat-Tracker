@@ -27,9 +27,9 @@ export class ArticleDetailed extends Component {
                     {article.title}
                 </h3>
 
-                <Row className="d-flex justify-content-center">
-                    <Col>
-                        <img src={article.image_url} alt="article_image" />
+                <Row >
+                    <Col className="d-flex justify-content-center">
+                        <img src={article.image_url} width="1120" height="630" alt="article_image" />
                     </Col>
                 </Row>
                 <br />
