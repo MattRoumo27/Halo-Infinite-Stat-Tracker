@@ -1,6 +1,6 @@
 <div align="center">
 	<h1>Halo Infinite Statistics Tracker</h1>
-	<img src="https://github.com/MattRoumo27/Halo-Infinite-Stat-Tracker/blob/master/HaloIntegration/ClientApp/src/Photos/Banner.jpg" alt="logo"/>
+	<img src="https://github.com/MattRoumo27/Halo-Infinite-Stat-Tracker/blob/master/HaloIntegration/ClientApp/src/Photos/Banner.jpg" width="1000" height="400" alt="logo"/>
 </div>
 
 ## Overview
