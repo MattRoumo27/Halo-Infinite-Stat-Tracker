@@ -1,4 +1,7 @@
-# Halo Infinite Statistics Tracker
+<div align="center">
+	<h1>Halo Infinite Statistics Tracker</h1>
+	<img src="https://github.com/MattRoumo27/Halo-Infinite-Stat-Tracker/blob/master/HaloIntegration/ClientApp/src/Photos/Banner.jpg" alt="logo"/>
+</div>
 
 ![Banner](https://github.com/MattRoumo27/Halo-Infinite-Stat-Tracker/blob/master/HaloIntegration/ClientApp/src/Photos/Banner.jpg)
 
