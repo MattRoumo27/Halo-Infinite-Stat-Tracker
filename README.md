@@ -3,7 +3,7 @@
 	<img src="https://github.com/MattRoumo27/Halo-Infinite-Stat-Tracker/blob/master/HaloIntegration/ClientApp/src/Photos/Banner.jpg" alt="logo"/>
 </div>
 
-![Banner](https://github.com/MattRoumo27/Halo-Infinite-Stat-Tracker/blob/master/HaloIntegration/ClientApp/src/Photos/Banner.jpg)
+## Overview
 
 A [Halo Infinite](https://www.halowaypoint.com/halo-infinite) statistics tracker that can return a designated player's performance in the multiplayer aspect of the game. 
 
