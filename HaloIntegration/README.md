@@ -1,6 +1,6 @@
 # Halo Infinite Statistics Tracker
 
-![Banner](https://github.com/MattRoumo27/Halo-Infinite-Stat-Tracker/blob/master/HaloIntegration/ClientApp/src/Photos/Banner.jpg)
+![Banner](https://github.com/MattRoumo27/Halo-Infinite-Stat-Tracker/blob/master/HaloIntegration/ClientApp/src/Photos/Banner.jpg | width=1000)
 
 A [Halo Infinite](https://www.halowaypoint.com/halo-infinite) statistics tracker that can return a designated player's performance in the multiplayer aspect of the game. 
 
